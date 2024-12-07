@@ -325,4 +325,17 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,intellij+all,visualstudiocode,node,remix,react
